@@ -1,1 +1,0 @@
-/home/dwelling/swmf_stuff/SWMF/run_test/PostProc.pl
